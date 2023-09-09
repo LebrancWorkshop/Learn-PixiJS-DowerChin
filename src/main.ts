@@ -8,6 +8,7 @@ app.renderer.background.color = config.backgroundColor;
 
 // Init.
 
+
 // Game Loop.
 app.ticker.add((deltaTime: number) => loop(deltaTime));
 
